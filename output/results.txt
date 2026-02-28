@@ -1,0 +1,36 @@
+Generated: 2026-02-26 21:42:03
+
+
+==== Environment ====
+Screen resolution: 1440x900
+
+==== 1) Open website ====
+URL: https://www.playtechpeople.com/
+Title: Home - Playtech People
+
+==== 2) Locations ====
+Locations count: 17
+- Australia
+- Austria
+- Bulgaria
+- Cyprus
+- Estonia
+- Germany
+- Gibraltar
+- Israel
+- Italy
+- Latvia
+- Malta
+- Peru
+- Romania
+- Sweden
+- Ukraine
+- United Kingdom
+- United States
+
+==== 3) Casino product suite description ====
+The world’s largest and most diverse online casino content developers with 8 content studios.
+
+==== 4) Estonia job links ====
+Tartu: No vacancies found
+Tallinn: No vacancies found
